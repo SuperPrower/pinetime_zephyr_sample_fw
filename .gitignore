@@ -1,0 +1,6 @@
+# build artifacts
+build/
+
+# editor files
+.clangd/
+.vscode/
